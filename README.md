@@ -1,7 +1,7 @@
 
 # Data Mining & Knowledge Discovery
 
-An introduction to computational methods for knowledge discovery and data mining. Covers data preparation, Python-based visualization, predictive modeling, clustering, and association analysis. Learn to wrangle and analyze data, apply supervised and unsupervised techniques, build or evaluate models, and communicate key insights.
+Repository for CIS 518 (Fall 2026) at GVSU. An introduction to computational methods for knowledge discovery and data mining. Features organized subfolders exploring data preparation, Python-based visualization, and predictive modeling. Contains clustering and association analysis assignments, and a data science portfolio project.
 
 ## 🚀 Key Topics Covered
 
