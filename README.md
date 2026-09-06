@@ -1,7 +1,7 @@
 
 # Data Mining & Knowledge Discovery
 
-Repository for CIS 518 (Fall 2026) at GVSU. An introduction to computational methods for knowledge discovery and data mining. Features organized subfolders exploring data preparation, Python-based visualization, and predictive modeling. Contains clustering and association analysis assignments, and a data science portfolio project.
+Repository used while studying CIS 518 (Fall 2026) at GVSU. An introduction to computational methods for knowledge discovery and data mining. Features organized subfolders exploring data preparation, Python-based visualization, and predictive modeling. Contains clustering and association analysis assignments, and a data science portfolio project.
 
 ## 🚀 Key Topics Covered
 
